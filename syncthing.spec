@@ -1,6 +1,6 @@
 %global debug_package %{nil}
 Name:           syncthing
-Version:        2.0.10
+Version:        2.0.11
 Release:        1
 Summary:        Continuous File Synchronisation
 # syncthing (MPL-2.0) bundles
@@ -24,7 +24,7 @@ Requires:       hicolor-icon-theme
 Syncthing replaces other file synchronization services with something
 open, trustworthy and decentralized. Your data is your data alone and
 you deserve to choose where it is stored, if it is shared with some
-third party and how it's transmitted over the Internet. Using syncthing,
+third party and how it's transmitted over the Internet. Using Syncthing,
 that control is returned to you.
 
 This package contains the syncthing client binary and systemd services.
@@ -36,7 +36,7 @@ Summary:        Continuous File Synchronization (server tools)
 Syncthing replaces other file synchronization services with something
 open, trustworthy and decentralized. Your data is your data alone and
 you deserve to choose where it is stored, if it is shared with some
-third party and how it's transmitted over the Internet. Using syncthing,
+third party and how it's transmitted over the Internet. Using Syncthing,
 that control is returned to you.
 
 This package contains the main syncthing server tools:
