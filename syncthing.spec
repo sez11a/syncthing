@@ -1,6 +1,6 @@
 %global debug_package %{nil}
 Name:           syncthing
-Version:        2.0.12
+Version:        2.0.13
 Release:        1
 Summary:        Continuous File Synchronisation
 # syncthing (MPL-2.0) bundles
